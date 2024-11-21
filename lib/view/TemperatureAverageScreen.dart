@@ -5,8 +5,7 @@ class TemperatureAverageScreen extends StatefulWidget {
   const TemperatureAverageScreen({super.key});
 
   @override
-  State<TemperatureAverageScreen> createState() =>
-      TemperatureAverageScreenState();
+  State<TemperatureAverageScreen> createState() => TemperatureAverageScreenState();
 }
 
 class TemperatureAverageScreenState extends State<TemperatureAverageScreen> {
